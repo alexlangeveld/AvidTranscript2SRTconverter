@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d1d08ed-0b43-4d35-beb3-37dcbada9e17" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/nl/alexflix/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nl/alexflix/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nl/alexflix/Options.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nl/alexflix/Options.java" afterDir="false" />
-    </list>
+    <list default="true" id="8d1d08ed-0b43-4d35-beb3-37dcbada9e17" name="Changes" comment="Opties en file ingest toegevoegd" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +23,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -45,7 +47,7 @@
     "Gradle.AvidTranscript2SRTconverter [:Main.main()].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "2024-04-08",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
@@ -59,9 +61,32 @@
       <option name="presentableId" value="Default" />
       <updated>1712569424807</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1712574161911</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712574161911</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Opties en file ingest toegevoegd" />
+    <option name="LAST_COMMIT_MESSAGE" value="Opties en file ingest toegevoegd" />
   </component>
 </project>

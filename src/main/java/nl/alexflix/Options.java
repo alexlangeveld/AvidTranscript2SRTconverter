@@ -22,6 +22,7 @@ public class Options {
             this.outputPath = null;
         }
 
+
         if (this.inputPath == null || this.inputPath.isEmpty()) {
             Scanner scanner = new Scanner(System.in);
             System.out.print("Plak hier het .txt bestand: ");
@@ -42,6 +43,7 @@ public class Options {
     public String getInputPath() {
         return inputPath;
     }
+
 
     public String getOutputPath() {
         return outputPath;

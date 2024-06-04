@@ -40,13 +40,12 @@ public class Main {
         }
 
         //Write output file
-        File[] outputFiles = new File[srt.length];
-        for (int i = 0; i < outputFiles.length; i++) {
+        for (int i = 0; i < srt.length; i++) {
             File currentInputFile = inputFiles.get(i);
             String output = currentInputFile.getParentFile() + File.separator + currentInputFile.getName().replace("txt", "srt");
-            outputFiles[i] = new File(output);
+            File currentOutputFile = new File(output);
             try {
-                FileWriter writer = new FileWriter(outputFiles[i], false);
+                FileWriter writer = new FileWriter(currentOutputFile, false);
                 writer.write(srt[i].toString());
                 writer.close();
             } catch (IOException e) {

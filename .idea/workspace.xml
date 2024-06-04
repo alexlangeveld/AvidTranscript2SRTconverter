@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d1d08ed-0b43-4d35-beb3-37dcbada9e17" name="Changes" comment="Opties en file ingest toegevoegd">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nl/alexflix/avidTranscript2SRTconverter/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nl/alexflix/avidTranscript2SRTconverter/v2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nl/alexflix/avidTranscript2SRTconverter/v2/SRT/SRT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nl/alexflix/avidTranscript2SRTconverter/v2/SRT/SRTblock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nl/alexflix/avidTranscript2SRTconverter/v2/transcript/Transcript.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nl/alexflix/avidTranscript2SRTconverter/v2/transcript/TranscriptBlock.java" afterDir="false" />
+    <list default="true" id="8d1d08ed-0b43-4d35-beb3-37dcbada9e17" name="Changes" comment="Versie 2 werkt!">
       <change afterPath="$PROJECT_DIR$/src/test/testfiles/New folder/ZING_PGM_OPN5_DEEL1_01-JUN-2024_19h49m00s00.srt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/testfiles/New folder/ZING_PGM_OPN5_DEEL1_01-JUN-2024_19h49m00s00.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/testfiles/New folder/ZING_PGM_OPN5_DEEL2_01-JUN-2024_20h56m00s00.srt" afterDir="false" />
@@ -21,10 +14,6 @@
       <change afterPath="$PROJECT_DIR$/src/test/testfiles/ZING_PGM_OPN5_DEEL2_01-JUN-2024_20h56m00s00.srt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/testfiles/ZING_PGM_OPN5_DEEL2_01-JUN-2024_20h56m00s00.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nl/alexflix/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nl/alexflix/avidTranscript2SRTconverter/v1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nl/alexflix/Options.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nl/alexflix/avidTranscript2SRTconverter/v1/Options.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nl/alexflix/SRTtimecode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nl/alexflix/avidTranscript2SRTconverter/v1/SRTtimecode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nl/alexflix/TekstBlok.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nl/alexflix/avidTranscript2SRTconverter/v1/TekstBlok.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +134,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717490646808</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Versie 2 werkt!">
+      <option name="closed" value="true" />
+      <created>1717516830709</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717516830709</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Versie 2 werkt!">
+      <option name="closed" value="true" />
+      <created>1717517020922</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717517020922</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,6 +168,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Opties en file ingest toegevoegd" />
-    <option name="LAST_COMMIT_MESSAGE" value="Opties en file ingest toegevoegd" />
+    <MESSAGE value="Versie 2 werkt!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Versie 2 werkt!" />
   </component>
 </project>
